@@ -8,8 +8,6 @@ import cs3500.marblesolitaire.model.hw02.MarbleSolitaireModelState.SlotState;
 /**
  * Represents the Triangle Solitaire Model, a variation of the marble solitaire game
  * where the game board is in the shape of a triangle.
- * @author Alexandra Hu
- * @author Matthew Li
  */
 public class TriangleSolitaireModel extends AbstractSolitaireModel implements MarbleSolitaireModel {
 
