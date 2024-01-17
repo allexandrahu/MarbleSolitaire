@@ -9,8 +9,6 @@ import cs3500.marblesolitaire.view.hw04.MarbleSolitaireView;
 /**
  * The MarbleSolitaireControllerImpl class implements the MarbleSolitaireController interface and is
  * responsible for controlling the game flow of the Marble Solitaire game.
- * @author Alexandra Hu
- * @author Matthew Li
  */
 public class MarbleSolitaireControllerImpl implements MarbleSolitaireController {
 
