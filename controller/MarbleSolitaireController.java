@@ -4,8 +4,6 @@ import java.io.IOException;
 
 /**
  * This interface represents a controller for the MarbleSolitaireModel and View
- * @author Alexandra Hu
- * @author Matthew Li
  */
 public interface MarbleSolitaireController {
 
