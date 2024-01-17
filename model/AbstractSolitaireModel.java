@@ -5,8 +5,6 @@ import cs3500.marblesolitaire.model.hw02.MarbleSolitaireModel;
 /**
  * Represents an abstract class that provides common functionality for different implementations of
  * the marble solitaire game.
- * @author Alexandra Hu
- * @author Matthew Li
  */
 public abstract class AbstractSolitaireModel implements MarbleSolitaireModel {
 
