@@ -4,8 +4,6 @@ import cs3500.marblesolitaire.model.AbstractSolitaireModel;
 import cs3500.marblesolitaire.model.hw02.MarbleSolitaireModelState.SlotState;
 /**
  * Represents the English Solitaire Model, which is a type of the Marble Solitaire game.
- * @author Alexandra Hu
- * @author Matthew Li
  */
 public class EnglishSolitaireModel extends AbstractSolitaireModel implements MarbleSolitaireModel {
 
