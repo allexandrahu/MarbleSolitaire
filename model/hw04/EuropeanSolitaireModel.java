@@ -5,8 +5,6 @@ import cs3500.marblesolitaire.model.hw02.MarbleSolitaireModel;
 
 /**
  * Represents the European Solitaire Model, which is a type of the English Solitaire game
- * @author Alexandra Hu
- * @author Matthew Li
  */
 public class EuropeanSolitaireModel extends EnglishSolitaireModel implements MarbleSolitaireModel {
 
